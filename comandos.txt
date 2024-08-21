@@ -1,0 +1,7 @@
+git init --inicial-branch=ejemplo
+git status -s
+git restore --> cuando el archivo esta rastreado
+git clean --> cuando el archivo no esta rastreado
+
+git reset nombrearchivo --> lo sacamos del area temporal
+
